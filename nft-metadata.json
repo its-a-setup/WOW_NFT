@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Pig"
+      },
+      {
+        "trait_type": "Condition",
+        "value": "Doesn't give a fuck"
+      }
+    ],
+    "description": "Pig, which doesn't give a fuck",
+    "image": "ipfs://QmPdageTJnwwkqLp2qWcFPxhkMNi6gnKosD2Q6eEhHj8w6",
+    "name": "Svinota"
+  }
+  

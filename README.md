@@ -17,6 +17,9 @@ Navigate to your project directory and run the following commands 1 by 1:
  npm install dotenv --save
 ```
 ```bash
+npm install @openzeppelin/contracts
+```
+```bash
  npm install --save-dev @nomiclabs/hardhat-ethers ethers@^5.0.0
 ```
 ```bash
